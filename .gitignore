@@ -1,0 +1,6 @@
+/.idea/
+/out/
+/logs/
+/target/
+/Zoo.iml
+.gitignore
